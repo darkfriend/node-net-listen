@@ -1,12 +1,12 @@
 {
-  "name": "net-listen",
-  "version": "0.1.1",
-  "description": "Listen helper for net module helping with socket listening",
+  "name": "net-listen2",
+  "version": "1.0.0",
+  "description": "Listen helper for net module helping with socket listening. Supported node.js>=20",
   "main": "index.js",
-  "homepage": "https://github.com/dkMorlok/node-net-listen",
+  "homepage": "https://github.com/darkfriend/node-net-listen",
   "repository": {
     "type": "git",
-    "url": "git@github.com:dkMorlok/node-net-listen.git"
+    "url": "git@github.com:darkfriend/node-net-listen.git"
   },
   "keywords": [
     "net",
@@ -20,6 +20,15 @@
     "name": "Dusan Kmet",
     "email": "morlokdk@gmail.com"
   },
+  "engines": {
+    "node": ">= 20"
+  },
+  "contributors": [
+    {
+      "name": "darkfriend",
+      "email": "hi@darkfriend.ru"
+    }
+  ],
   "license": "MIT",
   "devDependencies": {
     "jasmine": "^2.4.1"
