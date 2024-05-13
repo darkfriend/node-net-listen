@@ -17,7 +17,7 @@ Node listen helper for net module helping with socket listening.
 ## Getting started 
 
 	var http = require('http');
-	var netListen = require('net-listen');
+	var netListen = require('net-listen2');
 	
 	var server = http.createServer();
 	var path = 'path/to/socket.sock';
