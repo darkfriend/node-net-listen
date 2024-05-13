@@ -1,4 +1,4 @@
-# net-listen
+# net-listen2
 
 Node listen helper for net module helping with socket listening.
 
@@ -9,7 +9,7 @@ Node listen helper for net module helping with socket listening.
 
 # Installation
 
-	npm install net-listen --save
+	npm install net-listen2 --save
 	 
 	 
 # Usage
